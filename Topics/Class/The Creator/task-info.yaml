@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# create an Elf here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6666#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 11 Apr 2021 05:17:12 UTC
+record: -1
